@@ -1,4 +1,4 @@
 def parrot(prettybird="Squawk!")
-puts #{prettybird}
-#{prettybird}
+puts "#{prettybird}"
+"#{prettybird}"
 end
